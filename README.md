@@ -1,12 +1,12 @@
-# 🔔 Random Mindfulness Bell
+# 🔔 The Mindfulness Bell
 
 **Your gentle companion for staying present throughout the day**
 
 ---
 
-## 🌟 What is Random Mindfulness Bell?
+## 🌟 What is The Mindfulness Bell?
 
-Imagine having a kind friend who gently taps you on the shoulder throughout the day, reminding you to take a breath and notice the present moment. That's what Random Mindfulness Bell does.
+Imagine having a kind friend who gently taps you on the shoulder throughout the day, reminding you to take a breath and notice the present moment. That's what The Mindfulness Bell does.
 
 It's a simple app that sends you gentle bell notifications at random times during your day. Each bell is an invitation to:
 
@@ -17,7 +17,7 @@ It's a simple app that sends you gentle bell notifications at random times durin
 
 ### Why Random Times?
 
-The magic is in the randomness. When bells come at unexpected times, they catch you in the middle of real life - rushing through emails, stuck in traffic, scrolling mindlessly. These surprise moments are when mindfulness matters most.
+When bells come at unexpected times, they catch you in the middle of real life - rushing through emails, stuck in traffic, scrolling mindlessly. These surprise moments are when mindfulness matters most.
 
 > "Between stimulus and response, there is a space. In that space is our power to choose our response." - Viktor Frankl
 
@@ -273,15 +273,15 @@ The bells are just gentle invitations to be present for it.
 ### Something Not Working?
 
 If the app isn't behaving as expected:
-1. Check that notifications are enabled (Settings → Notifications → Random Mindfulness Bell)
+1. Check that notifications are enabled (Settings → Notifications → The Mindfulness Bell)
 2. Make sure you've chosen a bell preset
 3. Try restarting the app
 
 ### Want to Share Feedback?
 
 We'd love to hear how you're using the app!
-- Found a bug? [Let us know](https://github.com/ikhanhmai/random-mindfulness-bell/issues/new)
-- Have a suggestion? [Share it](https://github.com/ikhanhmai/random-mindfulness-bell/issues/new)
+- Found a bug? [Let us know](https://github.com/ikhanhmai/the-mindfulness-bell/issues/new)
+- Have a suggestion? [Share it](https://github.com/ikhanhmai/the-mindfulness-bell/issues/new)
 - Love the app? Tell a friend who might benefit!
 
 ---
@@ -309,11 +309,9 @@ If it helps you, share it with someone who might benefit. That's payment enough.
 
 ---
 
-<div align="center">
-
 ### 🌟 Ready to Begin?
 
-Download **Random Mindfulness Bell** and let the journey unfold.
+Download **The Mindfulness Bell** and let the journey unfold.
 
 One bell at a time.
 One breath at a time.
@@ -324,5 +322,3 @@ One moment at a time.
 ---
 
 *Made with care for anyone seeking more presence in their daily life*
-
-</div>
