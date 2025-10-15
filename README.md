@@ -317,7 +317,7 @@ One bell at a time.
 One breath at a time.
 One moment at a time.
 
-**[Download on the App Store](#)** *(coming soon)*
+**[Download on the App Store](https://apps.apple.com/us/app/the-mindfulness-bell/id6753335250)**
 
 ---
 
